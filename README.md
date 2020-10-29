@@ -1,6 +1,5 @@
 # django-simple-and-complex
-
-## contains all the links to get hold of django elements, be it simple or complex
+contains all the links to get hold of django elements, be it simple or complex
 
 ### first step
 make sure to go through the [django tutorial](https://docs.djangoproject.com/en/3.1/intro/tutorial01/) before proceeding any further.
