@@ -13,7 +13,9 @@ make sure to go through the [django tutorial](https://docs.djangoproject.com/en/
 
 ### django ORM
 - [Basics of ORM -django girls](https://tutorial.djangogirls.org/en/dynamic_data_in_templates/)
-- [ORM -django official docs](https://docs.djangoproject.com/en/3.1/topics/db/queries/)
+- Django official docs
+  - [ORM](https://docs.djangoproject.com/en/3.1/topics/db/queries/)
+  - [Queryset API](https://docs.djangoproject.com/en/3.1/ref/models/querysets/#django.db.models.query.QuerySet.exists)
 
 ### User authentication
 - [Implement multiple user types](https://simpleisbetterthancomplex.com/tutorial/2018/01/18/how-to-implement-multiple-user-types-with-django.html)
