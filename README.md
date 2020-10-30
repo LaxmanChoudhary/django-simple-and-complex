@@ -11,6 +11,10 @@ make sure to go through the [django tutorial](https://docs.djangoproject.com/en/
 
 ### base layout
 
+### django ORM
+- [Basics of ORM -djangogirls](https://tutorial.djangogirls.org/en/dynamic_data_in_templates/)
+- [ORM -django official dics](https://docs.djangoproject.com/en/3.1/topics/db/queries/)
+
 ### User authentication
 - [Implement multiple user types](https://simpleisbetterthancomplex.com/tutorial/2018/01/18/how-to-implement-multiple-user-types-with-django.html)
 - [Extend/change user model](https://simpleisbetterthancomplex.com/tutorial/2016/07/22/how-to-extend-django-user-model.html)
