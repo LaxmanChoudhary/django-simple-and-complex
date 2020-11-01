@@ -22,7 +22,7 @@ make sure to go through the [django tutorial](https://docs.djangoproject.com/en/
 - [Extend/change user model](https://simpleisbetterthancomplex.com/tutorial/2016/07/22/how-to-extend-django-user-model.html)
 - Default User model on [Django Github](https://github.com/django/django/tree/stable/3.1.x)
 
-> Search through **django > contrib > auth** to find out the user model. Not only User but the repo can be used to reference different models and classes to make use of them or customise them as per the need.
+> Search through **django > contrib > auth** to find out the user model. Not only User but the repo can be used to reference different models and classes to make use of them or customise them as per the need.<br>
 > The latest releases are quite abstracted, to find a complete model, that was available as *single class* [here](https://github.com/django/django/blob/ff6ee5f06c2850f098863d4a747069e10727293e/django/contrib/auth/models.py#L225-404), which is the release 1.4x. After that there has been a lot of changes to django package.
 
 ### database integrations
