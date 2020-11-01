@@ -39,3 +39,7 @@ make sure to go through the [django tutorial](https://docs.djangoproject.com/en/
 - [django - react integration](https://alphacoder.xyz/dead-simple-react-django-setup/)
 
 > my personal favourite is **heroku** which provide free deployment of single app, consider it to test personal project deployment.
+
+### personal references
+- [Two Scoops of Django: Best Practices for Django](https://amzn.to/2HK92RP)<br>
+A good book containing the best practices to follow when developing with django. Although the book is written for Django 1.8x, it can be used for the later versions as well. It contains really great practices to follow and what not to.
