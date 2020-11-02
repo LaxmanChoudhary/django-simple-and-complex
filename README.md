@@ -9,7 +9,7 @@ make sure to go through the [django tutorial](https://docs.djangoproject.com/en/
 
 > Django documentaion is itself a great well documented documentation, to know everything about django. But why not use some help from the coummunity!!
 
-### base layout
+## base layout
 
 ### django ORM
 - [Basics of ORM -django girls](https://tutorial.djangogirls.org/en/dynamic_data_in_templates/)
